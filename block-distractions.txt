@@ -4,6 +4,7 @@
 ||*galaxus.ch^$empty
 ||*microspot.ch^$empty
 ||*motorradhandel.ch^$empty
+||*advrider.com^$empty
 ||*amazon*^$empty
 ||*rottweilerperformance.com^$empty
 ||*ktmtwins.com^$empty
@@ -15,6 +16,7 @@
 ||*tutti.ch^$empty
 ||*ricardo.ch^$empty
 ||*bike24.com^$empty
+||*chainreactioncycles.com^$empty
 ||*etsy.com^$empty
 ||*jpc.de^$empty
 ||*kickstarter.com^$empty
@@ -22,6 +24,10 @@
 ||*bmc-switzerland^$empty
 ||*canyon.com^$empty
 ||*bikerumour.com^$empty
+||*specialized.com^$empty
+||*evanscycles.com^$empty
+||*racycles.com^$empty
+||*bikeradar.com^$empty
 ||*salsacycles.com^$empty
 ||*bikester.ch^$empty
 ||*bike-import.ch^$empty
@@ -30,3 +36,10 @@
 ||*thewirecutter.com^$empty
 ||*bhphotovideo.com^$empty
 ||*newegg.com^$empty
+||*t3.com^$empty
+||*gizmodo.com^$empty
+||*wired.com^$empty
+||*theverge.com^$empty
+||*cnet.com^$empty
+||*techradar.com^$empty
+||*gearpatrol.com^$empty
