@@ -28,3 +28,5 @@
 ||*discogs.com^$empty
 ||*engadget.com^$empty
 ||*thewirecutter.com^$empty
+||*bhphotovideo.com^$empty
+||*newegg.com^$empty
