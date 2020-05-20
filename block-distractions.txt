@@ -1,9 +1,9 @@
-||reddit.com^$empty
+||*reddit.com^$empty
 ||*ebay*^$empty
-||digitec.ch^$empty
-||galaxus.ch^$empty
-||microspot.ch^$empty
-||motorradhandel.ch^$empty
+||*digitec.ch^$empty
+||*galaxus.ch^$empty
+||*microspot.ch^$empty
+||*motorradhandel.ch^$empty
 ||*amazon*^$empty
 ||*rottweilerperformance.com^$empty
 ||*ktmtwins.com^$empty
