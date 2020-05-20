@@ -30,11 +30,14 @@
 ||*bikeradar.com^$empty
 ||*salsacycles.com^$empty
 ||*bikester.ch^$empty
+||*wog.ch^$empty
 ||*bike-import.ch^$empty
 ||*discogs.com^$empty
 ||*engadget.com^$empty
 ||*thewirecutter.com^$empty
 ||*bhphotovideo.com^$empty
+||*adorama.com^$empty
+||*ldlc-pro.com^$empty
 ||*newegg.com^$empty
 ||*t3.com^$empty
 ||*gizmodo.com^$empty
@@ -43,3 +46,4 @@
 ||*cnet.com^$empty
 ||*techradar.com^$empty
 ||*gearpatrol.com^$empty
+||*gunshopschweiz.ch^$empty
