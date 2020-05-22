@@ -52,3 +52,6 @@
 ||*apple.ch^$empty
 ||*apple.com^$empty
 ||*slashgear.com^$empty
+||*stereo.de^$empty
+||*cambridgeaudio.com^$empty
+||*marantz.com^$empty
