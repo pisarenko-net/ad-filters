@@ -47,3 +47,8 @@
 ||*techradar.com^$empty
 ||*gearpatrol.com^$empty
 ||*gunshopschweiz.ch^$empty
+||*lenovo.ch^$empty
+||*lenovo.conm^$empty
+||*apple.ch^$empty
+||*apple.com^$empty
+||*slashgear.com^$empty
