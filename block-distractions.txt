@@ -55,3 +55,4 @@
 ||*stereo.de^$empty
 ||*cambridgeaudio.com^$empty
 ||*marantz.com^$empty
+||*whathifi.com^$empty
