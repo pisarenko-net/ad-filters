@@ -56,3 +56,7 @@
 ||*cambridgeaudio.com^$empty
 ||*marantz.com^$empty
 ||*whathifi.com^$empty
+||*bmw-motorrad*^$empty
+||*ducati.com^$empty
+||*ducati.ch^$empty
+||*co-motion.com^$empty
