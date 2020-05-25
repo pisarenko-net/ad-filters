@@ -60,3 +60,8 @@
 ||*ducati.com^$empty
 ||*ducati.ch^$empty
 ||*co-motion.com^$empty
+||*hifioutlet.ch^$empty
+||*www.mueller-spring.ch^$empty
+||*stevehoffman.tv^$empty
+||*crutchfield.com^$empty
+||*klipsch.com^$empty
