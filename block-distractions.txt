@@ -69,3 +69,4 @@
 ||*crutchfield.com^$empty
 ||*minidsp.com^$empty
 ||*rotel.com^$empty
+||*rtings.com^$empty
