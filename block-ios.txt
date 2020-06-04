@@ -65,3 +65,7 @@
 ||*stevehoffman.tv
 ||*crutchfield.com
 ||*klipsch.com
+||*audiosciencereview.com
+||*crutchfield.com
+||*minidsp.com
+||*rotel.com
