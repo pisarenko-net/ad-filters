@@ -1,11 +1,9 @@
-||*reddit.com^$empty
 ||*ebay*^$empty
 ||*digitec.ch^$empty
 ||*galaxus.ch^$empty
 ||*microspot.ch^$empty
 ||*motorradhandel.ch^$empty
 ||*advrider.com^$empty
-||*amazon*^$empty
 ||*rottweilerperformance.com^$empty
 ||*ktmtwins.com^$empty
 ||*toppreise.ch^$empty
@@ -18,7 +16,6 @@
 ||*bike24.com^$empty
 ||*chainreactioncycles.com^$empty
 ||*etsy.com^$empty
-||*jpc.de^$empty
 ||*kickstarter.com^$empty
 ||*mediamarkt.ch^$empty
 ||*bmc-switzerland^$empty
@@ -30,9 +27,7 @@
 ||*bikeradar.com^$empty
 ||*salsacycles.com^$empty
 ||*bikester.ch^$empty
-||*wog.ch^$empty
 ||*bike-import.ch^$empty
-||*discogs.com^$empty
 ||*engadget.com^$empty
 ||*thewirecutter.com^$empty
 ||*bhphotovideo.com^$empty
@@ -46,9 +41,8 @@
 ||*cnet.com^$empty
 ||*techradar.com^$empty
 ||*gearpatrol.com^$empty
-||*gunshopschweiz.ch^$empty
 ||*lenovo.ch^$empty
-||*lenovo.conm^$empty
+||*lenovo.com^$empty
 ||*apple.ch^$empty
 ||*apple.com^$empty
 ||*slashgear.com^$empty
@@ -65,8 +59,6 @@
 ||*stevehoffman.tv^$empty
 ||*crutchfield.com^$empty
 ||*klipsch.com^$empty
-||*audiosciencereview.com^$empty
 ||*crutchfield.com^$empty
 ||*minidsp.com^$empty
-||*rotel.com^$empty
 ||*rtings.com^$empty
