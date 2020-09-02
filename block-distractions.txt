@@ -62,3 +62,7 @@
 ||*crutchfield.com^$empty
 ||*minidsp.com^$empty
 ||*rtings.com^$empty
+||*amazon.com^$empty
+||*amazon.co.uk^$empty
+||*amazon.de^$empty
+||*reddit*^$empty
