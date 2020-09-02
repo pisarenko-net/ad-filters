@@ -62,3 +62,7 @@
 ||*crutchfield.com
 ||*minidsp.com
 ||*rtings.com
+||*amazon.com
+||*amazon.co.uk
+||*amazon.de
+||*reddit*
