@@ -66,3 +66,7 @@
 ||*amazon.co.uk^$empty
 ||*amazon.de^$empty
 ||*reddit*^$empty
+||*adafruit.com^$empty
+||*audiophonics.fr^$empty
+||*minidisc.org^$empty
+||*www.hifishark.com^$empty
