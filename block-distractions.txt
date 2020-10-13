@@ -70,3 +70,7 @@
 ||*audiophonics.fr^$empty
 ||*minidisc.org^$empty
 ||*hifishark.com^$empty
+||*reichelt.com^$empty
+||*distrelec.ch^$empty
+||*conrad.ch^$empty
+||*pi-shop.ch^$empty
