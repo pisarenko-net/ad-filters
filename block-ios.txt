@@ -70,7 +70,9 @@
 ||*audiophonics.fr
 ||*minidisc.org
 ||*hifishark.com
-||*reichelt.com^$empty
-||*distrelec.ch^$empty
-||*conrad.ch^$empty
-||*pi-shop.ch^$empty
+||*reichelt.com
+||*distrelec.ch
+||*conrad.ch
+||*pi-shop.ch
+||*hifiengine.com
+||*all3dp.com
