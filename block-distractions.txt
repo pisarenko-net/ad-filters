@@ -76,3 +76,4 @@
 ||*pi-shop.ch^$empty
 ||*hifiengine.com^$empty
 ||*all3dp.com^$empty
+||*google.com/.*tbm=shop.*^$empty
